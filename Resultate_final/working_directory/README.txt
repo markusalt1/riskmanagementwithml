@@ -1,0 +1,1 @@
+This folder is intended as a working directory for files needed only temporarily. Since all notebooks are already executed, it is empty but for completeness it is included here.
